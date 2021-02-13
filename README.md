@@ -1,4 +1,6 @@
 # Third Eye
+![](gif/enemy_animation.gif)
+
 Third Eye is a bullet hell style shooter using a 2d game engine written in C++ using OpenFrameworks. Art was drawn using Asesprite. 
 
 # Features
