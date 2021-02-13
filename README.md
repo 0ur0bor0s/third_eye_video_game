@@ -4,6 +4,7 @@ Third Eye is a bullet hell style shooter using a 2d game engine written in C++ u
 # Features
 - sprite system including sprite animation
 - sprite emitter system
+  - emitter may spawn other emitters
 - particle system used for explosions
 - physics based player movement
 - collision detection
